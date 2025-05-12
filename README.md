@@ -1,4 +1,3 @@
-# TheDyrt-API---Grid-Tabanl-Veri-ekme-Denemesi-Kavram-Kan-tlama-
 
 
 # TheDyrt API - Grid Tabanlı Veri Çekme Denemesi
